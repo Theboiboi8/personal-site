@@ -1,1 +1,1 @@
-This is a website to find Meteor Client Addons
+This Is A Personal Website/Portfolio thing
